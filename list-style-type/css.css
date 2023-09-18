@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+ul{
+    list-style-type: '✅';
+}
+ol{
+    list-style: '☑️';
+}
+li{
+    color: bisque;
+}
+
